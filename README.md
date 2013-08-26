@@ -1,4 +1,4 @@
 montyhall
 =========
 
-A Python Program that simulates the Monty Hall Probleam
+A Python Program that simulates the Monty Hall Problem
